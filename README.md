@@ -30,6 +30,4 @@
   * BernoulliNB (Accuracy score : 77.5%)
   
 ### Custom prediction output :
-![resttttpos](https://user-images.githubusercontent.com/64924874/87149419-cce70d80-c2cd-11ea-88fc-81df9de78772.png)
-![restneg](https://user-images.githubusercontent.com/64924874/87149424-d07a9480-c2cd-11ea-992f-a5c619e01e24.png)
-![resttttpos1](https://user-images.githubusercontent.com/64924874/87149432-d40e1b80-c2cd-11ea-97a3-c87b9fc9253d.png)
+
