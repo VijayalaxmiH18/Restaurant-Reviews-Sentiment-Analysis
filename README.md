@@ -12,17 +12,17 @@
 - Some of these rules can be high-leveled and abstract; for example, when someone uses a sarcastic remark to pass information.
 - On the other hand, some of these rules can be low-levelled; for example, using the character “s” to signify the plurality of items.
 - Comprehensively understanding the human language requires understanding both the words and how the concepts are connected to deliver the intended message.
-- To know more, click [here]('https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1')
+- To know more, click [here](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
 
 ### Steps performed :
-- Downloading stopwords package
-- Removing special character from reviews 
-- Converting reviews into lower case 
-- Tokenizing 
-- Removing stopwords
-- Stemming 
-- Joining stemmed words 
-- Creating corpus 
+1. Downloading stopwords package
+2. Removing special character from reviews 
+3. Converting reviews into lower case 
+4. Tokenizing 
+5. Removing stopwords
+6. Stemming 
+7. Joining stemmed words 
+8. Creating corpus 
 
 ### Algorithms applied :
   * MultinomialNB (Accuracy score : 77.5%)
